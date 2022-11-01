@@ -41,8 +41,8 @@ $ git push -u origin master  #for first time push
 $ git push                   #from second push onwards
 ```
 
-> Think you're ready :grey_question: Make the PR :tropical_drink:
+> Think you're ready :grey_question: Make the Pull Request :tropical_drink:
 -  open your forked repository
 - Click on Create New Pull Request
-- Give a message in the comment box about the PR
-- Hurrah!! Your first PR made! Wait for your submission to be accepted and your PR to be merged.
+- Give a message in the comment box about the Pull Request
+- Hurrah!! Your first Pull Request made! Wait for your submission to be accepted and your Pull Request to be merged.
