@@ -15,13 +15,13 @@ Happy Submissions :slightly_smiling_face:
 
 ```bash
 # clone the repository to your local machine
-$ git clone https://github.com/<YOUR-GITHUB-USERNAME>/Beginner-CPP-Submissions.git
+$ git clone https://github.com/<YOUR-GITHUB-USERNAME>//WorkBook_CTSD_22SC1101.git
 
 # navigate to the project's directory and install all the relevant dev-dependencies
 $ cd Beginner-CPP-Submissions
 
 # include all the latest changes from the remote repository
-$ git remote add upstream https://github.com/Girl-Code-It/Beginner-CPP-Submissions
+$ git remote add upstream https://github.com/KoushikReddyB/WorkBook_CTSD_22SC1101
 $ git fetch upstream
 $ git merge upstream/master
 ```
