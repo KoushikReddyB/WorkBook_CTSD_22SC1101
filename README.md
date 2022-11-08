@@ -1,7 +1,7 @@
 # WorkBook_CTSD_22SC1101
 This repository has answers for "Workbook Computational Thinking For Structured Design" of 22SC1101. For BES-01 Freshman Engineering Department ( FED ) for Academic year - 2022 - 2023 ODD SEMESTER. 
 
-"# Beginner-CPP-Submissions" 
+"# WorkBook_CTSD_22SC1101" 
 # Contribution is fun! :green_heart:
 
 In order to make a hassle-free environment, I implore you all (_while contributing_) to follow the instructions mentioned below!
