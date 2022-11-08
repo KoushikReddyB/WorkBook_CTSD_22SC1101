@@ -13,6 +13,8 @@ int main()
 		if(str[i]==' ')
 		break;
 		else
+		ans++;
+	}
 	printf("The lenght of last word of the string is %d",ans);
 	return 0;
 }
