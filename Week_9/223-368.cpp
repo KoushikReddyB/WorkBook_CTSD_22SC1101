@@ -2,15 +2,15 @@
 pg 233 / 368 ...
 NOTE: This program is also known as "Bubble Sort"*/
 #include<stdio.h>
-void swap(int*, int*);
-void swap(int *p1, int *p2)
+int swap(int*, int*);
+int swap(int *p1, int *p2)
 {
     int temp = *p1;
     *p1 = *p2;
     *p2 = temp;
 }
-void bubble_sort(int, int[]);
-void bubble_sort(int size, int a[])
+int bubble_sort(int, int[]);
+int bubble_sort(int size, int a[])
 {
     int i, j, temp;
     for(i=0; i<size-1; i++)
@@ -25,8 +25,8 @@ void bubble_sort(int size, int a[])
     }
             
 }
-void display(int, int[]);
-void display(int size, int array[])
+int display(int, int[]);
+int display(int size, int array[])
 {
     for(int i=0; i<size; i++)
     {
