@@ -48,6 +48,4 @@ int main()
     printf("array after sorting:\n");
     display(size, array);
     return 0;
-    
-    
 }
