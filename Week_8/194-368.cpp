@@ -4,13 +4,13 @@ pg 194 / 365 ... */
 #include<string.h>
 int main()
 {
-	char string[30];
+	char str[30];
 	int i,ans=0;
 	printf("Enter a string:");
-	gets(string);
-	for(i=strlen(string)-1;i>=0;i--)
+	gets(str);
+	for(i=strlen(str)-1;i>=0;i--)
 	{
-		if(string[i]==' ')
+		if(str[i]==' ')
 		break;
 		else
 		ans++;
